@@ -65,3 +65,7 @@ Now the next time you add a new blog post, simply repeat the `vmc push` command.
 Copyright © 2012 Alvaro Videla <avidela@vmware.com>
 
 See the LICENSE file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mba811/cloudfoundry-octopress/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
